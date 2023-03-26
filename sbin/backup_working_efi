@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+
+#################
+##  VARIABLES  ##
+#################
+EFI_PATH='/boot/EFI/Linux'
+EFI_BACKUP_FILE="LastSuccessfulBoot.efi"
+read ACTIVE_EFI < /sys/firmware/efi/efivars/LoaderEntrySelected-4a67b082-0a4c-41cf-b6c7-440b29bb8c4f
+ACTIVE_EFI=${ACTIVE_EFI//[![:print:]]/}
+    # ACTIVE_EFI reads the EFI variable (SYSTEMD) for which entry was last booted
+    # IT IS THEN STRIPPED OF NON-PRINTABLE CHARACTERS 
+ACTIVE_EFI_PATH="${EFI_PATH}/${ACTIVE_EFI}"
+BACKUP_EFI_PATH="${EFI_PATH}/${EFI_BACKUP_FILE}"
+
+
+########################
+##  BEGIN PROCESSING  ##
+########################
+echo "ACTIVE EFI: ${ACTIVE_EFI_PATH}"
+echo "BACKUP EFI: ${BACKUP_EFI_PATH}"
+
+if [ -f "${ACTIVE_EFI_PATH}" ]; then
+    echo "ACTIVE EFI: EXISTS"
+    if [ -f "${BACKUP_EFI_PATH}" ]; then
+        echo "BACKUP EFI: EXISTS"
+        if ! cmp --silent "${ACTIVE_EFI_PATH}" "${BACKUP_EFI_PATH}"; then
+            echo "BACKUP EFI: CHANGED, UPDATING"
+            cp -a "${ACTIVE_EFI_PATH}" "${BACKUP_EFI_PATH}"
+        else
+            echo "BACKUP EFI: UNCHANGED"
+        fi
+    else
+        echo "BACKUP EFI: DOES NOT EXIST, CREATING"
+        cp -a "${ACTIVE_EFI_PATH}" "${BACKUP_EFI_PATH}"
+    fi
+
+fi
