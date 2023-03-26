@@ -33,7 +33,7 @@ function error() {
 function load_config() {
   KEY_DIR="/etc/efi-keys"
   ESP_DIR="/boot"
-  OUT_DIR="EFI/Arch"
+  OUT_DIR="EFI/Linux"
   SPLASH="/usr/share/systemd/bootctl/splash-arch.bmp"
   BACKUP=1
   EXTRA_SIGN=()
@@ -114,12 +114,7 @@ function get_kernels() {
     done
   else
     # The script was run by the user
-    force_all=1
-  fi
-
-  if (( force_all )); then
-    (( ! REMOVE )) || error "trying to remove all kernels"
-    # Match all files without a conventional file extension
+    force_all=1sbupdate
     KERNELS=(/boot/vmlinuz-!(*.+([[:alpha:]]))); KERNELS=("${KERNELS[@]#/boot/vmlinuz-}")
   fi
   readonly -a KERNELS
