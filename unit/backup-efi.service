@@ -1,0 +1,11 @@
+[Unit]
+Description=Backup Last Successful EFI image
+Requires=multi-user.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/local/sbin/backup_working_efi
+
+[Install]
+WantedBy=multi-user.target
