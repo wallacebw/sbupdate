@@ -1,7 +1,41 @@
 # CISO Meeting — Speaking Notes & Conversation Guide
 
 **Confidential — Personal Preparation Document**
-**Meeting Date: March 14, 2026**
+**Meeting: Lunch with Marino Monti, SVP & CISO — March 14, 2026**
+
+---
+
+## Important: Meeting Objective
+
+**This is a discovery conversation, not a closing meeting.** Your goals are:
+
+1. Gauge Marino's interest and reaction
+2. Leave the analysis document behind for her review
+3. Get a commitment to a follow-up meeting or next step
+4. **Do NOT sign anything.** You will review any proposals with your own attorney first.
+
+---
+
+## What You Know Going In
+
+- **Voya legal has confirmed no IP conflict** — the cleanest possible starting point
+- **There were pressures from a meeting earlier this week** related to this space —
+  meaning the need is already being discussed at an institutional level. You're not
+  creating demand; you're walking into existing demand.
+- **Marino Monti** is a Voya veteran — 20+ years across Voya and predecessor companies.
+  He's held both the **CISO and CTO/Head of Technology Services** roles. This means
+  he evaluates through both a security lens AND a technology investment lens. You don't
+  need to oversell the security "why" — he lives it. But he'll also naturally think
+  about architecture, integration, and how this fits Voya's tech stack.
+- **His background**: Director at Citigroup, Director at Travelers Life & Annuity,
+  AVP at The Hartford — he's spent his entire career in financial services security
+  and technology. He understands regulated environments deeply.
+- **He reports to Santhosh Keshavan** (CIO/CTO). If Marino is interested, the next
+  conversation will likely involve Santhosh.
+- **You're on a first-name basis and he agreed to lunch on short notice after 5 PM** —
+  he's clearly interested and open. This is a warm conversation, not a cold pitch.
+- **You also have a close working relationship with Stacy Hughes** (former CISO) —
+  this gives you additional internal credibility and institutional knowledge.
 
 ---
 
@@ -10,32 +44,57 @@
 **You are not asking for a favor. You are offering a strategic asset.**
 
 - Legal has already confirmed there is no IP conflict — this is a clean transaction
-- You built this on personal time with personal resources
-- You could keep building independently, license commercially, or sell to a competitor
-- You are *choosing* to offer this to the company because you believe it's the right home
-- The earn-out structure means the company's risk is minimal — you're betting on yourself
+- You built this on personal time with personal resources — there is no legal entity,
+  no investors, no cap table, no encumbrances of any kind
+- The platform is in stealth mode — no public customers, no obligations, no complications
+- You could keep building independently, license commercially, or sell externally
+- You are *choosing* to offer this to Voya because you believe it's the right home
+- The earn-out structure means Voya's risk is minimal — you're betting on yourself
+- **You are not signing anything today.** This is an interest conversation only.
+
+---
+
+## Setting & Tone
+
+This is a lunch meeting with someone you're on a first-name basis with. That's an
+advantage — it should feel like a candid conversation between colleagues, not a formal
+pitch. The informal setting works in your favor: it lowers the formality and lets
+you have a genuine strategic discussion.
+
+**Use the setting.** Lunch is naturally conversational. Don't rush to the pitch. Let
+the conversation breathe. You're well-positioned — you reached out after hours, Marino
+agreed immediately, and there are already internal pressures around this space from
+earlier in the week. He's clearly curious.
+
+**Marino's dual CTO/CISO background is an advantage for you.** He won't just think
+"is this a security tool?" — he'll think "how does this fit our technology strategy?"
+That's the conversation you want, because it leads naturally to the bigger picture:
+fine-tuning, competitive differentiation, and the platform play.
 
 ---
 
 ## Meeting Structure (Recommended Flow)
 
-### Phase 1: Set the Context (3–5 minutes)
+### Phase 1: Set the Context (Over Appetizers / Early Conversation)
 
-**Opening — establish that this is a strategic conversation, not a pitch:**
+**Opening — warm, direct, and conversational. You know each other. Be yourself:**
 
-> "Thank you for making time for this. I wanted to follow up on my conversation with
-> legal. I've developed a technology platform on my personal time that I believe has
-> significant strategic value for us. Legal has confirmed there's no IP conflict, and
-> I'd like to discuss bringing it in-house."
+> "Marino, I appreciate you making time for this on short notice. I wanted to follow
+> up on my conversation with legal this week. I've been building something on my own
+> time that I think could be really valuable for Voya, and I wanted to talk to you
+> about it directly."
 
-**Transition to the problem:**
+**Transition to the problem — connect it to what Voya is dealing with right now:**
 
-> "As we scale AI adoption across the firm, we're facing a challenge that every regulated
-> financial institution is dealing with right now: how do we govern AI usage, protect
-> sensitive data, and maintain compliance — without slowing down the teams that need
-> these tools?"
+> "As we keep scaling AI across the organization — WealthPath, the OneAmerica
+> integration, the advisor tools — we're going to face the same question every
+> regulated FI is dealing with: how do we govern all of this? How do we make sure
+> participant data, investment strategies, and plan information aren't leaking out
+> through AI tools? We're responsible for over a trillion dollars in assets and
+> 10 million people's retirement security. The governance question isn't theoretical."
 
-**Key point to land**: You're not creating a problem — you're solving one they already have.
+**Key point to land**: You're not creating a problem — you're naming one she's already
+thinking about, especially given the pressures surfaced earlier this week.
 
 ---
 
@@ -235,7 +294,7 @@ back to you" with no date.
 
 1. **Send a brief thank-you email** within 2 hours of the meeting
 2. **Attach the analysis document** if you didn't leave a physical copy
-3. **Offer to schedule a technical demo** for the CISO's team or CTO
+3. **Offer to schedule a technical demo** for Marino's team or Santhosh Keshavan (CIO/CTO)
 4. **Follow up in one week** if you haven't heard back
 5. **Consult with your own attorney** before signing anything — have them review any
    agreement, especially earn-out definitions, milestone criteria, and termination clauses
