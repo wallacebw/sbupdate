@@ -10,7 +10,7 @@
 **This is a discovery conversation, not a closing meeting.** Your goals are:
 
 1. Gauge Marino's interest and reaction
-2. Leave the analysis document behind for her review
+2. Leave the analysis document behind for his review
 3. Get a commitment to a follow-up meeting or next step
 4. **Do NOT sign anything.** You will review any proposals with your own attorney first.
 
@@ -93,7 +93,7 @@ fine-tuning, competitive differentiation, and the platform play.
 > through AI tools? We're responsible for over a trillion dollars in assets and
 > 10 million people's retirement security. The governance question isn't theoretical."
 
-**Key point to land**: You're not creating a problem — you're naming one she's already
+**Key point to land**: You're not creating a problem — you're naming one he's already
 thinking about, especially given the pressures surfaced earlier this week.
 
 ---
@@ -132,27 +132,38 @@ document. If not, walk through these points:
 
 ### Phase 3: The Strategic Differentiator (3–5 minutes)
 
-**This is where you separate Arbitex from a vendor purchase:**
+**This is where you separate Arbitex from a vendor purchase — and where your 20+ years
+of institutional knowledge becomes the killer advantage:**
 
 > "Beyond the platform itself, I have the technical capability to fine-tune large
 > language models on our proprietary data. That means we could build models that
 > understand our deal structures, our compliance history, our institutional knowledge —
 > and those models would run entirely inside our infrastructure."
 
-**Pause and let that land. Then:**
+**Pause and let that land. Then connect it to your unique position:**
 
-> "Think about what that means for M&A. Right now, if an analyst wants to use AI
-> on a deal, they either risk sending sensitive information to a third party, or they
-> don't use AI at all. With this platform and fine-tuned models, they get the
-> productivity gains with zero data exposure. No third party ever sees our deal data."
+> "And here's what makes this different from hiring someone or buying a vendor tool —
+> I've been here for over twenty years. Through multiple acquisitions. I know our
+> systems, our data, our regulatory history, and how everything connects. When I
+> fine-tune a model on Voya's data, I know what to prioritize, what's sensitive, and
+> what matters. No outside hire or consultant brings that. You can't buy that on the
+> market."
+
+**The M&A data protection angle:**
+
+> "Think about what that means for sensitive matters. Right now, if an analyst wants
+> to use AI on a deal, they either risk sending sensitive information to a third party,
+> or they don't use AI at all. With this platform and fine-tuned models, they get the
+> productivity gains with zero data exposure. No third party ever sees our data."
 
 **The business opportunity angle:**
 
 > "There's also a longer-term opportunity here. This combination — governance platform
 > plus custom fine-tuning — is something we could potentially offer to other
-> institutions. Every bank, every PE firm, every asset manager faces this exact
-> same problem. We could keep it as a competitive advantage, or we could turn it
-> into a revenue line. That's a decision for leadership, but the optionality is there."
+> institutions. Every retirement plan administrator, every asset manager, every FI
+> faces this exact same problem. We could keep it as a competitive advantage, or we
+> could turn it into a revenue line. That's a decision for leadership, but the
+> optionality is there."
 
 ---
 
@@ -272,6 +283,46 @@ anchors the conversation. $3–8M sounds very reasonable after hearing $180M–$
 | Gartner: AI security platform adoption by 2028 | >50% of enterprises | Gartner prediction |
 | Estimated internal build cost | $3–5M over 2–3 years | Engineering cost analysis |
 | Estimated annual vendor equivalent cost | $575K–$1.15M/year | Market pricing analysis |
+
+---
+
+## Role & Compensation During Rollout
+
+**If the conversation gets to specifics about your role, plant the seed on compensation.
+Don't negotiate hard — just frame the expectation.**
+
+The key principle: the salary is for the *new role*, not a raise on the old one. The IP
+deal (upfront + earn-out) is separate. Don't let them bundle these together.
+
+> "As part of this, my role would fundamentally change — I'd be leading the deployment,
+> development, and fine-tuning of an enterprise AI platform across the organization.
+> I'd expect my compensation to reflect that new scope. We can work through the
+> specifics, but I want to make sure we're aligned that this is a materially different
+> job than what I'm doing today."
+
+**If pressed for a number:**
+
+> "Head of AI Platform roles at comparable financial institutions are in the $225K–$275K
+> base range. I think something in that neighborhood is fair given the scope."
+
+**Market data to support this (don't cite at lunch — just know it):**
+
+| Role | Base Salary Range | Source |
+|------|------------------|--------|
+| Head of AI Platform, Fortune 500 FI | $250K – $400K | Industry surveys |
+| SVP AI/Security Architect, major bank | $200K – $350K | Glassdoor, 6figr |
+| AI Governance professional (technical) | $221K median | IAPP 2025 Salary Report |
+| VP AI/ML roles at FIs | $210K+ | Indeed job listings |
+
+**Important framing notes:**
+- This is separate from the IP acquisition payment — don't let them argue "we're
+  already paying you with the earn-out"
+- 20+ years of tenure and institutional knowledge through multiple acquisitions is
+  irreplaceable — that has its own value independent of the platform
+- Push for a title that reflects the scope: "Head of AI Platform," "Director of AI
+  Governance," or VP/SVP-level designation
+- The title matters for your career trajectory and also justifies the comp internally
+  within Voya's HR bands
 
 ---
 

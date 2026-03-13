@@ -83,13 +83,19 @@ immutable audit trails, and provides governance controls — all in real time.
 | **Creditar Standard** | Add-on: credential risk | Add to Plan |
 | **Creditar Enterprise** | Add-on: enterprise credential intelligence | Talk to Sales |
 
-### 2.4 Unique Differentiator: Custom Model Fine-Tuning
+### 2.4 Unique Differentiator: Custom Model Fine-Tuning + Institutional Expertise
 
 Beyond the platform itself, the creator possesses the technical expertise to fine-tune
-large language models on proprietary institutional data. This capability enables:
+large language models on proprietary institutional data — combined with **over 20 years
+of tenure at Voya Financial**, spanning multiple acquisitions and organizational
+transformations. This combination of technical capability and deep institutional
+knowledge is irreplaceable and cannot be hired from the market.
+
+This unique position enables:
 
 - **Proprietary AI models** trained on internal deal data, research, compliance history,
-  and institutional knowledge — creating an asset competitors cannot replicate
+  and institutional knowledge — guided by someone who deeply understands what data
+  matters, what's sensitive, and how Voya's systems interconnect
 - **M&A confidentiality** — sensitive deal information, MNPI, and client data never
   leaves the institution's infrastructure
 - **Resale potential** — the combination of governance platform + fine-tuning capability
@@ -252,7 +258,7 @@ position and strategy:
 | **Regulatory risk mitigation** | Platform directly addresses regulatory requirements for AI governance in financial services. Voya's $1T+ in managed assets and 10M+ participants demand the highest compliance standards. Non-compliance penalties can reach millions. |
 | **Speed to market** | Acquiring a built platform eliminates 2–3 years of development time. With Voya's $75M 2026 tech budget already earmarked for growth initiatives, this accelerates rather than competes with the existing roadmap. |
 | **Hybrid deployment** | Customer-managed data plane capability is rare and critical. Voya's retirement plan data, participant PII, and investment strategies cannot be sent to third-party AI providers. |
-| **Fine-tuning expertise** | Creator's ability to fine-tune models on proprietary data creates a capability that cannot be purchased from any vendor. Voya's decade of Machine Intelligence expertise in investment management could be extended and protected through this platform. |
+| **Fine-tuning expertise + institutional knowledge** | Creator's ability to fine-tune models on proprietary data, combined with 20+ years of Voya tenure through multiple acquisitions, creates a capability that cannot be purchased from any vendor or replicated by any hire. The creator understands Voya's systems, data architecture, regulatory history, and institutional context at a depth no external party can match. |
 | **Resale / licensing potential** | Platform could be packaged for other retirement plan administrators, asset managers, and financial institutions — aligning with Voya's position as an industry consolidator and technology-forward leader. |
 | **Competitive differentiation** | Proprietary AI models trained on Voya's institutional data create a moat that compounds over time. No competitor can replicate models trained on Voya's $1T+ asset base. |
 | **Participant data protection** | Ensures retirement plan participant data, investment strategies, and sensitive financial information never reach third-party AI providers — a fiduciary imperative. |
@@ -292,9 +298,15 @@ capability acquisition.
 | Component | Suggested Range | Timing |
 |-----------|----------------|--------|
 | **Upfront Payment** | $750K – $2.0M | At closing — reflects current platform value and development investment |
-| **Annual Salary** | Market rate + retention premium | Ongoing — commensurate with technical lead / senior architect role |
+| **Annual Base Salary** | $225K – $275K | Ongoing — reflects new role as Head of AI Platform / Technical Lead. Market rate for SVP-level AI platform leadership at Fortune 500 FIs. |
 | **Earn-Out Payout** | $2.0M – $5.0M | At end of earn-out period, contingent on milestone achievement |
-| **Total Package** | **$3.0M – $8.0M** | Over 2–3 year period |
+| **Total Package** | **$3.0M – $8.0M** | Over 2–3 year period (exclusive of ongoing salary) |
+
+*Note: The annual salary reflects the materially expanded role scope — leading deployment,
+development, and fine-tuning of an enterprise AI platform — and is separate from the IP
+acquisition compensation. The creator brings 20+ years of Voya institutional knowledge
+through multiple acquisitions, which is irreplaceable and uniquely qualifies them for
+this role.*
 
 ### 6.3 Suggested Earn-Out Milestones
 
